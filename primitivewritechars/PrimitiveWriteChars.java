@@ -16,8 +16,8 @@ public class PrimitiveWriteChars {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        PrimitiveWrite.escribirChars();
-        PrimitiveWrite.leerChars();
+        PrimitiveWriteChar.escribirChars();
+        PrimitiveWriteChar.leerChars();
     }
     
 }
